@@ -10,7 +10,8 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello kill local World!!!" << endl; // prints !!!Hello World!!!
+<<<<<<< HEAD
+	cout << "!!!Hello kill local1 World!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello love14 World!!!" << endl;
 
 	return 0;

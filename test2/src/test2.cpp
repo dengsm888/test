@@ -11,5 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello kill World!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Hello love World!!!" << endl;
 	return 0;
 }
